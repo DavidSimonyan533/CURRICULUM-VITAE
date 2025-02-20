@@ -1,3 +1,11 @@
+span {
+    
+    text-decoration: underline;
+    color: blue;
+    font-style: normal;
+    font-weight: bold;
+}
+
 body {
     background-color: #f8f3f3;
     color: black;
@@ -15,9 +23,9 @@ h1 {
 }
 
 h2 {
+    background-color: #aaa1a1;
     color: red;
     font-size: 150%;
-    background-color: #aaa1a1;
     text-transform: capitalize;
 }
 
@@ -30,14 +38,6 @@ h3 {
 p {
     background-color: #cccccc;
     line-height: 150%;
-}
-
-em {
-    font-weight: bold;
-    text-decoration: underline;
-    color: blue;
-    font-style: normal;
- 
 }
 
 strong {
