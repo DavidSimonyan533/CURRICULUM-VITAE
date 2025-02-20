@@ -1,0 +1,47 @@
+body {
+    background-color: #f8f3f3;
+    color: black;
+    text-align: justify;
+    font-family: sans-serif;
+ 
+}
+
+h1 {
+ 
+    text-align: center;
+    color: #6e6d6d;
+    font-size: 200%;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: red;
+    font-size: 150%;
+    background-color: #aaa1a1;
+    text-transform: capitalize;
+}
+
+h3 {
+    background-color: #4b4949;
+    color: rgb(143, 43, 143);
+    font-size: 130%;
+}
+
+p {
+    background-color: #cccccc;
+    line-height: 150%;
+}
+
+p {
+    font-weight: bold;
+    text-decoration: underline;
+    color: blue;
+    font-style: normal;
+ 
+}
+
+strong {
+    font-weight: normal;
+    color: green;
+    font-style: normal;
+}
