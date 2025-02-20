@@ -32,7 +32,7 @@ p {
     line-height: 150%;
 }
 
-p {
+em {
     font-weight: bold;
     text-decoration: underline;
     color: blue;
@@ -41,6 +41,7 @@ p {
 }
 
 strong {
+
     font-weight: normal;
     color: green;
     font-style: normal;
